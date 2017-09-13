@@ -9,6 +9,9 @@ dist
 build
 *.egg
 *.egg-info
+
+
+adC
 _mailinglist
 .tox
 .cache/
